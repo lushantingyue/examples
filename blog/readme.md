@@ -18,12 +18,6 @@
         单元测试, 使用的 mocha, supertest 组件
 ```
 
-## API
-    "co": "^4.1.0",
-    "co-busboy": "^1.0.2",
-    "co-fs": "^1.2.0"
-## demo
-
 ## 依赖的库
 ```
     "dependencies": {
