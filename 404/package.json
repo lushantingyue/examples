@@ -1,0 +1,20 @@
+{
+  "name": "404",
+  "version": "1.0.0",
+  "description": "example for 404 handling",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "koa": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "should": "^3.3.2",
+    "supertest": "*"
+  },
+  "author": "koajs",
+  "license": "MIT"
+}
