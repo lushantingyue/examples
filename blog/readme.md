@@ -17,7 +17,9 @@
     test.js:
         单元测试, 使用的 mocha, supertest 组件
 ```
-
+#### koa2 和 koa 1.x 的区别
+      Koa2 应用了ES7的 Async/Await来替代 Koa1中的生成器函数generator与yield。
+      
 ## 依赖的库
 ```
     "dependencies": {
